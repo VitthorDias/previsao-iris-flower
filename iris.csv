@@ -1,0 +1,4 @@
+id,Altura Sepala,Largura Sepala,Altura Petala,Largura Petala,Classe
+1,6.0,4.0,5.0,4.2,VIRGINICA
+2,4.0,4.0,3.0,4.0,VERSICOLOR
+3,0.1,0.1,0.1,0.1,SETOSA
